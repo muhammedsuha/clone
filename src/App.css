@@ -1,0 +1,56 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #fff;
+    padding: 40px 20px;
+  }
+  
+  .logo {
+    font-size: 3em;
+    color: #4285f4;
+    font-family: Arial, sans-serif;
+  }
+  
+  .description {
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 10px;
+  }
+  
+  .search-container {
+    margin-top: 20px;
+  }
+  
+  .search-bar {
+    padding: 10px;
+    font-size: 1.2em;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+  }
+  
+  .search-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+    background-color: #4285f4;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .search-button:hover {
+    background-color: #357ae8;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+    color: #888;
+    font-size: 0.9em;
+  }
